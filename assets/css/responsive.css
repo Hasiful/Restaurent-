@@ -1,0 +1,125 @@
+/* ==================responsive================= */
+/* ==================responsive================= */
+/* ==================responsive================= */
+
+
+@media  (min-width: 991px) {
+    .nav_menu_and_button {
+        display: flex !important;
+        display: block;
+    }
+    .mobile_nav{
+        display: none;
+    }
+    .language_en {
+        display: block;
+    }
+    .banner_contain {
+        justify-content: space-around;
+        align-items: center;
+        flex-direction: row;
+        text-align: justify;
+    }
+    .bennar_content_btn {
+       justify-content: flex-start;
+       flex-direction: row;
+    }
+    .content_btn1 {
+        margin-bottom: 0px;
+    }
+    .banner_content {
+        width: 66%;
+        margin-top: 0px;
+    }
+    .about_section_contain {
+        flex-direction: row;
+    }
+    .about_section_image {
+        width: 48%;
+    }
+    .about_section_content {
+        width: 48%;
+        margin-top: 0px;
+    }
+    .why_us_section_contain {
+        justify-content: space-between;
+        flex-direction: row;
+    }
+    .why_us_box {
+        width: 32%;
+        margin-bottom: 0px;
+    }
+    .tasty_menu_contain {
+        align-items: flex-start;
+        justify-content: space-between;
+        flex-direction: row;
+    }
+    .our_tasty_menu {
+        width: 48%;
+    }
+    .special_section_contain {
+        flex-direction: row;
+    }
+    .spacial_content_filter {
+        width: 25%;
+    }
+    .spacial_section_content {
+        flex-direction: row;
+    }
+    .spacial_section_image {
+        max-width: 33%;
+    }
+    .spacial_section_filter_conect {
+        width: 74%;
+    }
+    .event_slider_design {
+        flex-direction: row;
+    }
+    .event_slider_image {
+        max-width: 49%;
+    }
+    .event_slider_content {
+        width: 48%;
+        margin-top: 0px;
+    }
+    .table_input_row {
+        flex-direction: row;
+    }
+    .input_design {
+        margin: 22px 0px;
+        width: 32%;
+    }
+    .gallary_contain {
+        flex-direction: row;
+    }
+    .gallary_image {
+        max-width: 25%;
+    }
+    .chefs_section_contain {
+        flex-direction: row;
+    }
+    .chefs_box_design {
+        width: 33%;
+        margin-bottom: 0px;
+    }
+    .contact_form_container {
+        flex-direction: row;
+    }
+    .contact_form_location {
+        width: 30%;
+    }
+    .contact_form_form {
+        width: 63%;
+    }
+    .contact_form_row {
+        flex-direction: row;
+    }
+    .row_input {
+        width: 49%;
+        margin-top: 0px;
+    }
+}
+
+/* ==================responsive================= */
+/* ==================responsive================= */
+/* ==================responsive================= */
